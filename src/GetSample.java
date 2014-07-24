@@ -17,6 +17,7 @@ public class GetSample{
 
 		//创建GET方法的实例
 		String url = "http://c.360doo.com/zmddh/zmywx/mobile/home/index.aspx?c=3583&s=2103&p=13359&a=63&v=894DB3182CE2096AF2A80910CDC99166EE7ACAF794154760AE98FE58204C37B0264E271BF08CB6B89485D6E2B7556D951B6166A81CEF2732";
+		String uu = "http://www.sojump.com/wjx/join/completemobile.aspx?activity=3674412&joinactivity=114869487";
 		GetMethod getMethod = new GetMethod(url);
 
 		//使用系统提供的默认的恢复策略
